@@ -64,5 +64,5 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
 <style>
 body { background-color: #fff !important; }
-h1,h2,h3,h4,h5,h6,h7,p { color: #000 !important; }
+/*h1,h2,h3,h4,h5,h6,h7,p { color: #000 !important; }*/
 </style>
