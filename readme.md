@@ -70,3 +70,5 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 graph TD
     开始 --> 结束
 ​```
+
+a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>
