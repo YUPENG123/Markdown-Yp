@@ -72,3 +72,17 @@ graph TD
 ​```
 
 a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>
+
+
+平均数符号：$overline{xyz}$   
+开二次方符号：$sqrt x$       
+开方符号：$sqrt[3]{x+y}$   
+对数符号：$log(x)$  
+极限符号：$lim^{x to infty}_{y to 0}{frac{x}{y}}$  
+极限符号：$displaystyle lim^{x to infty}_{y to 0}{frac{x}{y}}$  
+求和符号：$sum^{x to infty}_{y to 0}{frac{x}{y}}$  
+求和符号：$displaystyle sum^{x to infty}_{y to 0}{frac{x}{y}}$  
+积分符号：$int^{infty}_{0}{xdx}$  
+积分符号：$displaystyle int^{infty}_{0}{xdx}$ 
+微分符号：`partial`，如：$frac{partial x}{partial y}$  
+矩阵符号：$left[ begin{matrix} &1 &2 &cdots &4 &5 &6 &cdots &8\ &vdots &ddots &cdots &13 &14 &15 &cdots &16end{matrix} right]$
